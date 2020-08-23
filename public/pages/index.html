@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/main.css">
+
+    <title>Fuel Inventory Page</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="jumbotron jumbotron-fluid">
+        <div class="container">
+          <h1 class="display-4">Fuel Inventory Checker</h1>
+          <p class="lead">Select the item below.</p>
+        </div>
+      </div>
+     <!-- Cards -->
+     <div class="row row-cols-1 row-cols-md-4" class="card-container">
+
+       <div class="col mb-4">
+         <div class="card">
+           <img src="images/5000gildan.png" data-src="images/5000gildan.png" class="card-img-top" alt="..." id="gildancard">
+           <div class="card-body">
+             <h5 class="card-title">Gildan</h5>
+
+             Classic T-Shirts
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="5000gildan" data-toggle="modal" data-target="#staticBackdrop" data-url="gildan-cotton-t-shirt">5000 Cotton T-Shirt</button>
+            <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="2000gildan" data-toggle="modal" data-target="#staticBackdrop" data-url="gildan-ultra-cotton-t-shirt">2000 Ultra Cotton T-Shirt</button>
+            <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="2000l" data-toggle="modal" data-target="#staticBackdrop" data-url="gildan-ultra-ladies-t-shirt">2000L Ultra Ladies T-Shirt</button>
+             Premium Fit Men's Tees
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="g640" data-toggle="modal" data-target="#staticBackdrop" data-url="gildan-softstyle-t-shirt">G640 Softstyle T-Shirt</button>
+           </div>
+         </div>
+       </div>
+
+       <div class="col mb-4">
+         <div class="card">
+           <img src="images/g500L.png" data-src="images/g500L.png" id="g500L" class="card-img-top" alt="...">
+           <div class="card-body">
+             <h5 class="card-title">Gildan</h5>
+             <!-- <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
+             Premium Fit Ladies Tees
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="g500L" data-toggle="modal" data-target="#staticBackdrop" data-url="gildan-softstyle-ladies-junior-t">G500L Ladies Missy T-Shirt</button>
+             Long Sleeve Tees
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="2400" data-toggle="modal" data-target="#staticBackdrop" data-url="gildan-ultra-cotton-long-sleeve-t-shirt">2400 Long Sleeve T-Shirt</button>
+             Unisex Tanks
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="2200" data-toggle="modal" data-target="#staticBackdrop" data-url="gildan-ultra-cotton-tank">2200 Ultra Cotton Tank</button>
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="G270" data-toggle="modal" data-target="#staticBackdrop" data-url="gildan-sleeveless-t-shirt">G270 Sleeveless T-Shirt</button>
+           </div>
+         </div>
+       </div>
+
+       <div class="col mb-4">
+         <div class="card">
+           <img src="images/2000b.png" data-src="images/2000b.png" id="2000b" class="card-img-top" alt="...">
+           <div class="card-body">
+             <h5 class="card-title">Gildan</h5>
+
+             Youth T-Shirts
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="2000b" data-toggle="modal" data-target="#staticBackdrop" data-url="gildan-youth-ultra-cotton-t">2000B Youth Ultra Cotton T</button>
+             Sweatshirts
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="18500" data-toggle="modal" data-target="#staticBackdrop" data-url="gildan-50-50-hoodie">18500 50/50 Hoodie</button>
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="18500b" data-toggle="modal" data-target="#staticBackdrop" data-url="gildan-youth-hoodie">18500b Youth Hoodie</button>
+             Crewnecks
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="18000" data-toggle="modal" data-target="#staticBackdrop" data-url="gildan-sweatshirt-crew">18000 Sweatshirt - Crew</button>
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="18000b" data-toggle="modal" data-target="#staticBackdrop" data-url="gildan-youth-sweatshirt">18000b Youth Sweatshirt</button>
+           </div>
+         </div>
+       </div>
+
+       <div class="col mb-4">
+         <div class="card">
+           <img src="images/3001c.png" data-src="images/3001c.png" id="3001c" class="card-img-top" alt="...">
+           <div class="card-body">
+             <h5 class="card-title">Bella & Canvas</h5>
+
+             Premium Fit Men's Tees
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="3001c" data-toggle="modal" data-target="#staticBackdrop" data-url="canvas-unisex-t-shirt">3001C Unisex T-Shirt</button>
+             Ladies Flowy Tanks
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="b8800" data-toggle="modal" data-target="#staticBackdrop" data-url="bella-flowy-racerback-tank">B8800 Flowy Racerback Tank</button>
+             Long Sleeve Tees
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="3501" data-toggle="modal" data-target="#staticBackdrop" data-url="canvas-long-sleeve-t">3501 Long Sleeve T-Shirt</button>
+             V-Necks
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="b6005" data-toggle="modal" data-target="#staticBackdrop" data-url="bella-ladies-v-neck">B6005 Ladies V-Neck</button>
+           </div>
+         </div>
+       </div>
+
+       <div class="col mb-4">
+         <div class="card">
+           <img src="images/3931.png" data-src="images/3931.png"  id="3931" class="card-img-top" alt="...">
+           <div class="card-body">
+             <h5 class="card-title">Fruit of the Loom</h5>
+
+             Classic T-Shirts
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="3931" data-toggle="modal" data-target="#staticBackdrop" data-url="fruit-of-the-loom-cotton-t">3931 Cotton T</button>
+             Premium Fit Ladies Tees
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="L3930R" data-toggle="modal" data-target="#staticBackdrop" data-url="fruit-of-the-loom-ladies-heavy-cotton-t-shirt">L3930R Ladies Heavy Cotton T-Shirt</button>
+             Long Sleeve Tees
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="4930" data-toggle="modal" data-target="#staticBackdrop" data-url="fruit-of-the-loom-long-sleeve">4930 Long Sleeve</button>
+             V-Necks
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="39vr" data-toggle="modal" data-target="#staticBackdrop" data-url="fruit-of-the-loom-hd-v-neck-t-shirt">39VR HD V-Neck T-Shirt</button>
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="L39VR" data-toggle="modal" data-target="#staticBackdrop" data-url="fruit-of-the-loom-ladies-hd-v-neck-t">L39VR Ladies HD V Neck T</button>
+           </div>
+         </div>
+       </div>
+
+       <div class="col mb-4">
+         <div class="card">
+           <img src="images/c1717.png" data-src="images/c1717.png"  id="c1717" class="card-img-top" alt="...">
+           <div class="card-body">
+             <h5 class="card-title">Comfort Colors</h5>
+
+             Premium Fit Men's Tees
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="C1717" data-toggle="modal" data-target="#staticBackdrop" data-url="comfort-colors-ringspun-t-shirt">C1717 Ringspun T-Shirt</button>
+             Long Sleeve Tees
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="6014" data-toggle="modal" data-target="#staticBackdrop" data-url="comfort-colors-long-sleeve-t">6014 Long Sleeve T</button>
+             Crewnecks
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="1566" data-toggle="modal" data-target="#staticBackdrop" data-url="comfort-colors-fleece-crew">1566 Fleece Crew</button>
+           </div>
+         </div>
+       </div>
+
+       <div class="col mb-4">
+         <div class="card">
+           <img src="images/2001.png" data-src="images/2001.png" id="2001"class="card-img-top" alt="...">
+           <div class="card-body">
+             <h5 class="card-title">American Apparel</h5>
+
+             Premium Fit Men's Tees
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="2001" data-toggle="modal" data-target="#staticBackdrop" data-url="american-apparel-t-shirt">2001 T-Shirt</button>
+             Long Sleeve Tees
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="BB453W" data-toggle="modal" data-target="#staticBackdrop" data-url="american-apparel-unisex-poly-cotton-3-4-sleeve-raglan-t-shirt">BB453W 3/4 Sleeve Raglan Shirt</button>
+           </div>
+         </div>
+       </div>
+
+       <div class="col mb-4">
+         <div class="card">
+           <img src="images/5250.png" data-src="images/5250.png"  id="5250"class="card-img-top" alt="...">
+           <div class="card-body">
+             <h5 class="card-title">Hanes</h5>
+
+
+             Classic T-Shirts
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="5250" data-toggle="modal" data-target="#staticBackdrop" data-url="hanes-tagless-t-shirt">5250 Tagless T-Shirt</button>
+             Youth T-Shirts
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="5380" data-toggle="modal" data-target="#staticBackdrop" data-url="hanes-youth-beefy-t">5380 Youth Beefy-T</button>
+           </div>
+         </div>
+       </div>
+
+       <div class="col mb-4">
+         <div class="card">
+           <img src="images/3600.png" data-src="images/3600.png"  id="3600"class="card-img-top" alt="...">
+           <div class="card-body">
+             <h5 class="card-title">Next Level</h5>
+
+             Premium Fit Men's Tees
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="3600" data-toggle="modal" data-target="#staticBackdrop" data-url="next-level-fitted-crew">3600 Fitted Crew</button>
+             Ladies Flowy Tanks
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="N1533" data-toggle="modal" data-target="#staticBackdrop" data-url="next-level-ladies-racerback-tank">N1533 Ladies Racerback Tank</button>
+           </div>
+         </div>
+       </div>
+
+
+       <div class="col mb-4">
+         <div class="card">
+           <img src="images/980.png" data-src="images/980.png" id="980" class="card-img-top" alt="...">
+           <div class="card-body">
+             <h5 class="card-title">Anvil</h5>
+
+             Classic T-Shirts
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="980" data-toggle="modal" data-target="#staticBackdrop" data-url="anvil-fashion-fit-t-shirt">980 Fashion Fit T-Shirt</button>
+           </div>
+         </div>
+       </div>
+
+       <div class="col mb-4">
+         <div class="card">
+           <img src="images/996m.png" data-src="images/996m.png" id="996m" class="card-img-top" alt="...">
+           <div class="card-body">
+             <h5 class="card-title">Jerzees</h5>
+
+             Hoodies
+             <button type="button" class="btn btn-primary btn-sm btn-block inventory" id="996M" data-toggle="modal" data-target="#staticBackdrop" data-url="jerzees-50-50-hoodie">996M 50/50 Hoodie</button>
+           </div>
+         </div>
+       </div>
+      </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="staticBackdrop" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="staticBackdropLabel">Current Inventory Status</h5>
+              <button type="button" class="close newsearch" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+              <ul class="list-group" id="content"></ul>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal" class="newsearch">New Search</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div> <!-- End Body container -->
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="js/script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "name": "fuel_node",
+  "version": "1.0.0",
+  "description": "Checks Fuel inventory",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Lyman Wong",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
