@@ -2,7 +2,7 @@
   // When clicking a button with the inventory class
   $('.inventory').on('click', function () {
     // Remove resultset if this has already been run
-    $('#content ul').remove();
+    $('#content').empty();
     // Get the value of data-url
     var geturl = this.getAttribute('data-url');
     // Create a url using geturl
@@ -47,21 +47,6 @@
       $('#content').append(oosItems);
     })
    })
-
-  // $("#2000gildan").hover(function(){
-  //   $("#gildancard").attr('src', 'images/2000gildan.png');
-  // });
-  // $("#5000gildan").hover(function(){
-  //   $("#gildancard").attr('src', 'images/5000gildan.png');
-  // });
-
-  // $('.btn').mouseover(function(){
-  //   var getImage = this.id;
-  //   console.log(getImage);
-  //   var newImage = 'images/' + getImage + '.png';
-  //   console.log(newImage);
-  //   $(getImage).attr('src', newImage);
-  // });
 
   $(".newsearch").click(function(){
     $('#content').empty();
