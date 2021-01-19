@@ -50,12 +50,12 @@
                         if (sizes[key] < 100) {
                           // Push the message with the out of stock message
                           items.push(
-                          '<li class="list-group-item">' + key.toUpperCase() + ' - ' + sizes[key] + ' pieces' + ' <span class="redwarning">(Warning: Most likely out of stock)</span>' + '</li>')
+                          '<li class="list-group-item">' + key.toUpperCase() + ' - ' + sizes[key] + ' pieces' + ' <span class="redwarning">Warning: Most likely out of stock</span>' + '</li>')
                         // Check if the inventory count is less than 150
                         } else if (sizes[key] < 200) {
                           // Push the content with the low stock message
                           items.push(
-                          '<li class="list-group-item">' + key.toUpperCase() + ' - ' + sizes[key] + ' pieces' + ' <span class="redwarning">(Warning: Low inventory)</span>' + '</li>')
+                          '<li class="list-group-item">' + key.toUpperCase() + ' - ' + sizes[key] + ' pieces' + ' <span class="redwarning">Warning: Low inventory</span>' + '</li>')
                         } else {
                           // Push the content with no message
                           items.push(
