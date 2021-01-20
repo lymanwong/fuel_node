@@ -12,3 +12,5 @@ Bootstrap
 jQuery
 Ajax
 Html/CSS
+
+Note: Created a redirect to send users to the new Fuel app.
