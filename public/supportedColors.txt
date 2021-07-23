@@ -1,0 +1,1915 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2580
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0  cost supporteColors==\{"hanes-tagless-t-shirt":[\
+ "Aquatic Blue",\
+ "Ash",\
+ "Athletic Orange",\
+ "Black",\
+ "Cardinal Red",\
+ "Carolina Blue",\
+ "Charcoal Heather",\
+ "Daffodil Yellow",\
+ "Dark Chocolate",\
+ "Deep Forest",\
+ "Deep Red",\
+ "Deep Royal",\
+ "Denim Blue",\
+ "Fatigue Green",\
+ "Gold",\
+ "Kelly Green",\
+ "Lavender",\
+ "Light Blue",\
+ "Light Steel",\
+ "Lime",\
+ "Maroon",\
+ "Navy",\
+ "Orange",\
+ "Oxford Gray",\
+ "Pebble",\
+ "Pink",\
+ "Purple",\
+ "Sand",\
+ "Sapphire",\
+ "Shamrock Green",\
+ "Smoke Gray",\
+ "Stonewashed Blue",\
+ "Stonewashed Green",\
+ "Teal",\
+ "White",\
+ "Wow Pink",\
+ "Yellow",\
+ "Blue Horizon",\
+ "Candy Orange",\
+ "Charisma Coral",\
+ "Pale Pink",\
+ "Clean Mint",\
+ "Palace Blue",\
+ "Natural"],\
+ "anvil-fashion-fit-t-shirt":[	 \
+ "White",\
+ "Spring Yellow",\
+ "Smoke",\
+ "Silver",\
+ "Royal Blue",\
+ "Navy",\
+ "Mandarin Orange",\
+ "Light Blue",\
+ "Kelly Green",\
+ "Independence Red",\
+ "Heather Grey",\
+ "Green Apple",\
+ "City Green",\
+ "Caribbean Blue",\
+ "Black",\
+ "Charcoal",\
+ "Chocolate",\
+ "Heather Dk Grey",\
+ "Heather Green",\
+ "Heather Purple",\
+ "Hot Pink",\
+ "Key Lime",\
+ "Orange",\
+ "Purple",\
+ "Red",\
+ "Charity Pink",\
+ "Gold",\
+ "Maroon",\
+ "Heather Blue",\
+ "Forest Green",\
+ "Heather Raspbery",\
+ "Hth Dark Green",\
+ "Lemon Zest",\
+ "Pool Blue",\
+ "Heather Orange",\
+ "Heather Red",\
+ "Hthr Royal Blue",\
+ "Hthr Carib Blue",\
+ "Teal Ice",\
+ "Terracota",\
+ "Coral",\
+ "Heather Hot Pink",\
+ "Heather Graphite",\
+ "Hthr City Green",\
+ "Heather Navy",\
+ "Heather Slate",\
+ "Violet",\
+ "Canyon",\
+ "Desert",\
+ "Orion",\
+ "Paragon",\
+ "Dusty Rose"],\
+ "next-level-fitted-crew":[\
+ "Banana Cream"\
+ "Cardinal",\
+ "Cream",\
+ "Black",\
+ "Dark Chocolate",\
+ "Heather Grey",\
+ "Heavy Metal",\
+ "Indigo",\
+ "Kelly Green",\
+ "Light Blue",\
+ "Light Olive",\
+ "Midnight Navy",\
+ "Military Green",\
+ "Natural",\
+ "Purple Rush",\
+ "Red",\
+ "Royal",\
+ "Tahiti Blue",\
+ "Turquoise",\
+ "Warm Grey",\
+ "White",\
+ "Cool Blue",\
+ "Forest Green",\
+ "Gold",\
+ "Light Pink",\
+ "Maroon",\
+ "Sand",\
+ "Classic Orange",\
+ "Antique Gold"],\
+"gildan-50-50-hoodie": [\
+"White",\
+"Black",\
+"Sports Grey",\
+"Navy",\
+"Royal Blue",\
+"Red",\
+"Cherry Red",\
+"Orange",\
+"Gold",\
+"Forest Green",\
+"Light Blue",\
+"Light Pink",\
+"Purple",\
+"Maroon",\
+"Dark Heather",\
+"Dark Chocolate",\
+"Sand",\
+"Irish Green",\
+"Carolina Blue",\
+"Heliconia",\
+"Kiwi",\
+"Antique Sapphire",\
+"Antque Cherry Red",\
+"Cardinal Red",\
+"Charcoal",\
+"Military Green",\
+"Garnet",\
+"Safety Pink",\
+"Sapphire",\
+"Graphite Heather",\
+"Hth Spt Scrlt Rd",\
+"Ht Sprt Drk Navy",\
+"Ht Sp Drk Maroon",\
+"Hth Sp Drk Green",\
+"Hthr Sport Royal",\
+"Violet"],\
+"jerzees-50-50-hoodie":	 [\
+"White",\
+"Black",\
+"Oxford",\
+"Deep Purple",\
+"True Red",\
+"Maroon",\
+"Cardinal Red",\
+"Gold",\
+"Classic Brown",\
+"Burnt Orange",\
+"Texas Orange",\
+"Forest Green",\
+"Kelly Green",\
+"Royal Blue",\
+"Ash",\
+"Black Heather",\
+"Columbia Blue",\
+"Cyber Pink",\
+"Khaki",\
+"Kiwi",\
+"Light Blue",\
+"Military Green",\
+"Safari",\
+"Sandstone",\
+"Athletic Heather",\
+"Vint Hth Maroon",\
+"Vintage Hth Blue",\
+"Vintage Hth Navy",\
+"Vintage Hth Red",\
+"California Blue",\
+"Clover",\
+"J Navy",\
+"Scuba Blue",\
+"Cool Mint",\
+"Retro Heather Coral",\
+"Classic Pink"],\
+ "gildan-ultra-cotton-tank":[\
+ "Ash",\
+ "Black",\
+ "Cardinal Red",\
+ "Carolina Blue",\
+ "Gold",\
+ "Lime",\
+ "Navy",\
+ "Orange",\
+ "Purple",\
+ "Red",\
+ "Royal Blue",\
+ "Sapphire",\
+ "Sports Grey",\
+ "White"],\
+ "gildan-ultra-ladies-t-shirt":[\
+ "White",\
+ "Black",\
+ "Sports Grey",\
+ "Navy",\
+ "Iris",\
+ "Light Blue",\
+ "Red",\
+ "Light Pink",\
+ "Dark Chocolate",\
+ "Dark Heather",\
+ "Pistachio",\
+ "Sapphire",\
+ "Royal Blue",\
+ "Purple",\
+ "Heliconia",\
+ "Forest Green",\
+ "Cardinal Red",\
+ "Charcoal",\
+ "Daisy",\
+ "Irish Green",\
+ "Orange",\
+ "Safety Green",\
+ "Safety Pink",\
+ "Mint Green",\
+ "Violet",\
+ "Yellow Haze",\
+ "Garnet",\
+ "Old Gold",\
+ "Azalea",\
+ "Orchid",\
+ "Sky"],\
+ "bella-flowy-racerback-tank":[\
+ "Athletic Heather",\
+"Black",\
+"Coral",\
+"Kelly",\
+"Midnight",\
+"Mint",\
+"Pebble Brown",\
+"Red",\
+"Soft Pink",\
+"Str Ath Htr/Wht",\
+"True Royal",\
+"White",\
+"Berry",\
+"Black Slub",\
+"Maroon",\
+"Teal",\
+"Dark Grey",\
+"White Slub",\
+"Denim Slub",\
+"Forest Marble",\
+"Mauve Marble",\
+"Military Green",\
+"Peach Slub",\
+"Solid Black Slub",\
+"Storm",\
+"Sunset",\
+"Hthr Deep Teal",\
+"Black Heather",\
+"Heather Navy",\
+"Mauve",\
+"Peach",\
+"Brick",\
+"Lilac"],\
+ "fruit-of-the-loom-ladies-heavy-cotton-t-shirt":[\
+ "Aquatic Blue",\
+ "Athletic Heather",\
+ "Black",\
+ "Classic Pink",\
+ "Charcoal Grey",\
+ "Chocolate",\
+ "Cyber Pink",\
+ "Kelly",\
+ "Forest Green",\
+ "Retro Htr Coral",\
+ "Retro Htr Green",\
+ "Retro Htr Pink",\
+ "Retro Htr Purple",\
+ "Retro Htr Royal",\
+ "Pacific Blue",\
+ "Royal",\
+ "Purple",\
+ "True Red",\
+ "White",\
+ "J Navy",\
+ "Columbia Blue",\
+ "Kiwi",\
+ "Yellow"],\
+ "gildan-ultra-cotton-t-shirt":[\
+ "Antique Royal",\
+ "Antque Cherry Red",\
+ "Antque Irish Green",\
+ "Ash",\
+ "Azalea",\
+ "Black",\
+ "Blue Dusk",\
+ "Cardinal Red",\
+ "Carolina Blue",\
+ "Cherry Red",\
+ "Chestnut",\
+ "Daisy",\
+ "Dark Chocolate",\
+ "Dark Heather",\
+ "Forest Green",\
+ "Galapagos Blue",\
+ "Gold",\
+ "Heather Cardinal",\
+ "Heather Navy",\
+ "Heliconia",\
+ "Ice Grey",\
+ "Iris",\
+ "Irish Green",\
+ "Jade Dome",\
+ "Kelly Green",\
+ "Kiwi",\
+ "Light Blue",\
+ "Light Pink",\
+ "Lime",\
+ "Maroon",\
+ "Metro Blue",\
+ "Military Green",\
+ "Mint Green",\
+ "Natural",\
+ "Navy",\
+ "Olive",\
+ "Orange",\
+ "Orchid",\
+ "Pistachio",\
+ "Prepared For Dye",\
+ "Purple",\
+ "Red",\
+ "Royal Blue",\
+ "Sand",\
+ "Sapphire",\
+ "Sky",\
+ "Sports Grey",\
+ "Stone Blue",\
+ "Tan",\
+ "Tangerine",\
+ "Texas Orange",\
+ "Vegas Gold",\
+ "White",\
+ "Cornsilk"],\
+ "gildan-cotton-t-shirt":[\
+ "White",\
+ "Natural",\
+ "Black",\
+ "Ash",\
+ "Sports Grey",\
+ "Navy",\
+ "Royal Blue",\
+ "Sapphire",\
+ "Light Blue",\
+ "Purple",\
+ "Red",\
+ "Maroon",\
+ "Cardinal Red",\
+ "Gold",\
+ "Sand",\
+ "Orange",\
+ "Forest Green",\
+ "Dark Chocolate",\
+ "Irish Green",\
+ "Garnet",\
+ "Yellow Haze",\
+ "Violet",\
+ "Tennessee Orange",\
+ "Old Gold",\
+ "Lime",\
+ "Light Pink",\
+ "Heliconia",\
+ "Daisy",\
+ "Carolina Blue",\
+ "Azalea",\
+ "Kiwi",\
+ "Military Green",\
+ "Sky",\
+ "Antique Cherry Red",\
+ "Antique Irish Green",\
+ "Antique Jade Dome",\
+ "Antique Orange",\
+ "Antique Sapphire",\
+ "Berry",\
+ "Blackberry",\
+ "Brown Savana",\
+ "Coral Silk",\
+ "Electric Green",\
+ "Heather Red",\
+ "Hthr Military Green",\
+ "Ice Grey",\
+ "Lilac",\
+ "Russet",\
+ "Sunset",\
+ "Tropical Blue",\
+ "Turf Green",\
+ "Tweed",\
+ "Cobalt",\
+ "Dark Heather",\
+ "Mint Green",\
+ "Cornsilk",\
+ "Texas Orange",\
+ "Graphite Heather",\
+ "Hthr Rdnt Orchid",\
+ "Heather Navy"],\
+ "bagedge-canvas-promo-tote":[\
+ "Black",\
+"Navy",\
+"Purple",\
+"Natural",\
+"Orange",\
+"Forest",\
+"Royal",\
+"Red",\
+"Pink",\
+"Light Blue",\
+"Kelly Green",\
+"Yellow"],\
+ "fruit-of-the-loom-long-sleeve":[\
+ "Ash",\
+ "Athletic Heather",\
+ "Azalea",\
+ "Black",\
+ "Cardinal",\
+ "Charcoal",\
+ "Columbia Blue",\
+ "Forest Green",\
+ "J Navy",\
+ "Kelly Green",\
+ "Khaki",\
+ "Maroon",\
+ "Royal",\
+ "True Red",\
+ "White",\
+ "Yellow",\
+ "Black Heather",\
+ "Retro Hthr Coral",\
+ "Retro Hthr Green",\
+ "Retro Hthr Royal",\
+ "Crimson",\
+ "Burnt Orange",\
+ "Chocolate",\
+ "Classic Pink",\
+ "Denim",\
+ "Kiwi",\
+ "Light Blue",\
+ "Gold",\
+ "Pacific Blue",\
+ "Purple",\
+ "Sagestone",\
+ "Silver",\
+ "Tennessee Orange"],\
+ "gildan-sweatshirt-crew":[\
+ "Antique Sapphire":[\
+ "Antque Cherry Red",\
+ "Ash",\
+ "Black",\
+ "Cardinal Red",\
+ "Carolina Blue",\
+ "Cherry Red",\
+ "Dark Chocolate",\
+ "Dark Heather",\
+ "Forest Green",\
+ "Garnet",\
+ "Gold",\
+ "Heliconia",\
+ "Irish Green",\
+ "Kiwi",\
+ "Light Blue",\
+ "Light Pink",\
+ "Maroon",\
+ "Military Green",\
+ "Navy",\
+ "Orange",\
+ "Purple",\
+ "Red",\
+ "Royal Blue",\
+ "Sand",\
+ "Sports Grey",\
+ "White",\
+ "Sapphire",\
+ "Graphite Heather",\
+ "Hth Sp Drk Green",\
+ "Ht Sp Drk Maroon",\
+ "Ht Sprt Drk Navy",\
+ "Hth Spt Scrlt Rd",\
+ "Hthr Sport Royal",\
+ "Serene Green",\
+ "Violet"],\
+ "gildan-ultra-cotton-long-sleeve-t-shirt":[\
+ "White",\
+ "Black",\
+ "Sports Grey",\
+ "Navy",\
+ "Royal Blue",\
+ "Irish Green",\
+ "Ash",\
+ "Red",\
+ "Maroon",\
+ "Gold",\
+ "Natural",\
+ "Orange",\
+ "Forest Green",\
+ "Purple",\
+ "Cardinal Red",\
+ "Texas Orange",\
+ "Military Green",\
+ "Light Blue",\
+ "Sand",\
+ "Light Pink",\
+ "Dark Heather",\
+ "Dark Chocolate",\
+ "Carolina Blue",\
+ "Sapphire"],\
+ "gildan-ladies-missy-t-shirt":	[\
+ "Antique Cherry Red",\
+ "Ash Grey",\
+ "Azalea",\
+ "Black",\
+ "Blackberry",\
+ "Cardinal Red",\
+ "Carolina Blue",\
+ "Cobalt",\
+ "Coral Silk",\
+ "Daisy",\
+ "Dark Heather",\
+ "Electric Green",\
+ "Forest Green",\
+ "Garnet",\
+ "Gold",\
+ "Heliconia",\
+ "Ice Grey",\
+ "Irish Green",\
+ "Light Blue",\
+ "Light Pink",\
+ "Lilac",\
+ "Lime",\
+ "Maroon",\
+ "Mint Green",\
+ "Navy",\
+ "Orange",\
+ "Purple",\
+ "Red",\
+ "Royal",\
+ "Sapphire",\
+ "Sport Grey",\
+ "Sunset",\
+ "Tropical Blue",\
+ "Violet",\
+ "White",\
+ "Cornsilk",\
+ "Antique Jade Dome",\
+ "Graphite Heather",\
+ "Heather Red",\
+ "Hthr Rdnt Orchid",\
+ "Heather Navy"],\
+ "american-apparel-t-shirt":[	 \
+ "Cranberry",\
+ "Forest",\
+ "Army",\
+ "Baby Blue",\
+ "Black",\
+ "Navy",\
+ "Olive",\
+ "Orange",\
+ "Red",\
+ "Slate",\
+ "Teal",\
+ "White",\
+ "Heather",\
+ "Royal",\
+ "Fuchsia",\
+ "Grass Green",\
+ "Lapis",\
+ "New Silver",\
+ "Kelly",\
+ "Summer Peach"],\
+ "next-level-ladies-racerback-tank":[	 \
+ "Banana Cream",\
+ "Black",\
+ "Cancun",\
+ "Dark Gray",\
+ "Hot Pink",\
+ "Indigo",\
+ "Kelly Green",\
+ "Light Orange",\
+ "Lilac",\
+ "Midnight Navy",\
+ "Military Green",\
+ "Purple Rush",\
+ "Raspberry",\
+ "Red",\
+ "Royal",\
+ "Scarlet",\
+ "Silver",\
+ "Tahiti Blue",\
+ "Turquoise",\
+ "Warm Gray",\
+ "White",\
+ "Mint"],\
+ "canvas-unisex-t-shirt":[	 \
+ "Aqua",\
+ "Ash",\
+ "Asphalt",\
+ "Athletic Heather",\
+ "Berry",\
+ "Black",\
+ "Brown",\
+ "Burnt Orange",\
+ "Canvas Red",\
+ "Coral",\
+ "Dark Grey Heather",\
+ "Deep Teal",\
+ "Evergreen",\
+ "Gold",\
+ "Heather Blue",\
+ "Heather Brown",\
+ "Heather Green",\
+ "Heather Navy",\
+ "Heather Slate",\
+ "Heather Tan",\
+ "Kelly",\
+ "Leaf",\
+ "Light Blue",\
+ "Maize Yellow",\
+ "Maroon",\
+ "Navy",\
+ "Ocean Blue",\
+ "Olive",\
+ "Orange",\
+ "Pebble Brown",\
+ "Red",\
+ "Silver",\
+ "Soft Cream",\
+ "Solid Black Blender",\
+ "Solid White Blender",\
+ "Steel Blue",\
+ "Teal",\
+ "Team Purple",\
+ "True Royal",\
+ "White",\
+ "Yellow",\
+ "Dark Grey",\
+ "Heather Kelly",\
+ "Heather Orange",\
+ "Heather Team Purple",\
+ "Vintage Black",\
+ "Heather Red",\
+ "Heather True Royal",\
+ "Army",\
+ "Heather Raspberry",\
+ "Mint",\
+ "Baby Blue",\
+ "Cardinal",\
+ "Turquoise",\
+ "Forest Green",\
+ "Heather Midnight Navy",\
+ "Heather Yellow Gold",\
+ "Heather Cardinal",\
+ "Heather Deep Teal",\
+ "Heather Forest",\
+ "Heather Mint",\
+ "Charity Pink",\
+ "Heather Dusty Blue",\
+ "Heather Grass Green",\
+ "Heather Mauve",\
+ "Heather Military Green",\
+ "Heather Prism Dusty Blue",\
+ "Heather Prism Ice Blue",\
+ "Heather Prism Lilac",\
+ "Heather Prism Mint",\
+ "Heather Prism Peach",\
+ "Heather Prism Sunset",\
+ "Heather Storm",\
+ "Heather Sunset",\
+ "Mauve",\
+ "Military Green",\
+ "Oxblood Black",\
+ "Storm",\
+ "Sunset",\
+ "Tan",\
+ "Black Heather",\
+ "Heather Olive",\
+ "Heather Maroon",\
+ "Heather Columbia Blue",\
+ "Heather Aqua",\
+ "Heather Stone",\
+ "Pink",\
+ "Heather Clay",\
+ "Heather Sea Green",\
+ "Heather Ice Blue",\
+ "Rust",\
+ "Heather Peach",\
+ "Mustard"],\
+ "fruit-of-the-loom-cotton-t":[\
+ "Aquatic Blue",\
+ "Ash",\
+ "Athletic Heather",\
+ "Azalea",\
+ "Black",\
+ "Burnt Orange",\
+ "Cardinal",\
+ "Charcoal Grey",\
+ "Chocolate",\
+ "Classic Pink",\
+ "Columbia Blue",\
+ "Cyber Pink",\
+ "Denim",\
+ "Forest Green",\
+ "Gold",\
+ "J Navy",\
+ "Kelly",\
+ "Kiwi",\
+ "Light Blue",\
+ "Maroon",\
+ "Military Green",\
+ "Natural",\
+ "Pacific Blue",\
+ "Purple",\
+ "Royal",\
+ "Safari",\
+ "Sagestone",\
+ "Silver",\
+ "Tennessee Orange",\
+ "True Red",\
+ "White",\
+ "Yellow",\
+ "Black Heather",\
+ "Retro Hth Coral",\
+ "Retro Hth Green",\
+ "Retro Hth Pink",\
+ "Retro Hth Purp",\
+ "Retro Hth Royal",\
+ "Admiral Blue",\
+ "Clover",\
+ "Crimson",\
+ "Deep Purple",\
+ "Fiery Red",\
+ "New Gold",\
+ "Scuba Blue",\
+ "Turquoise Hthr",\
+ "Fiery Red Heather",\
+ "Vintage Heather Navy"],\
+"beverage-mug|11oz":[\
+"White",\
+"Black"],\
+"beverage-mug|15oz":[	 \
+"White",\
+"Black"],\
+"gloss-poster|11x17":[	 \
+"White"],\
+"gloss-poster|16x24":["White"],\
+"gloss-poster|17x11":[ "White"],\
+ "gildan-youth-ultra-cotton-t":[	 \
+ "Black",\
+ "Cardinal Red",\
+ "Carolina Blue",\
+ "Cherry Red",\
+ "Daisy",\
+ "Dark Chocolate",\
+ "Forest Green",\
+ "Gold",\
+ "Heliconia",\
+ "Iris",\
+ "Irish Green",\
+ "Jade Dome",\
+ "Kelly Green",\
+ "Light Blue",\
+ "Light Pink",\
+ "Lime",\
+ "Maroon",\
+ "Mint Green",\
+ "Navy",\
+ "Orange",\
+ "Prepared For Dye",\
+ "Purple",\
+ "Red",\
+ "Royal Blue",\
+ "Sand",\
+ "Sapphire",\
+ "Sports Grey",\
+ "Texas Orange",\
+ "White"],\
+"gloss-poster|24x36": ["White"],\
+"gloss-poster|36x24": ["White"],\
+"gloss-poster|24x16": ["White"],\
+ "gildan-youth-sweatshirt":[\
+ "White",\
+ "Black",\
+ "Sports Grey",\
+ "Navy",\
+ "Red",\
+ "Maroon",\
+ "Forest Green",\
+ "Royal",\
+ "Dark Heather",\
+ "Graphite Heather"],\
+ "hanes-youth-beefy-t":[ \
+ "Ash",\
+ "Black",\
+ "Deep Red",\
+ "Deep Royal",\
+ "Light Blue",\
+ "Light Steel",\
+ "Navy",\
+ "White",\
+ "Gold",\
+ "Orange",\
+ "Yellow",\
+ "Candy Orange",\
+ "Charcoal Heather",\
+ "Charisma Coral",\
+ "Lime",\
+ "Deep Forest"],\
+ "bella-ladies-v-neck":[	 \
+ "Athletic Heather",\
+ "Black",\
+ "Dk Gry Heather",\
+ "Leaf",\
+ "Maroon",\
+ "Navy",\
+ "Ocean Blue",\
+ "Pink",\
+ "Plum",\
+ "Red",\
+ "True Royal",\
+ "White",\
+ "Baby Blue"],\
+ "fruit-of-the-loom-hd-v-neck-t-shirt":[	 \
+ "White",\
+ "Athletic Heather",\
+ "Black",\
+ "Charcoal Grey",\
+ "J Navy",\
+ "True Red"],\
+ "fruit-of-the-loom-ladies-hd-v-neck-t":	\
+ "Athletic Heather",\
+ "Black",\
+ "Cyber Pink",\
+ "True Red",\
+ "White",\
+ "Kelly",\
+ "Purple",\
+ "Royal",\
+ "Classic Pink",\
+ "J Navy"],\
+"i-phone-11-case": ["Gloss"],\
+ "i-phone-xs-case" : ["Gloss"],\
+ "i-phone-xr-case" : ["Gloss"],\
+ "i-phone-xs-max-case" : ["Gloss"],\
+"samsung-galaxy-s9-plus-case" : [Gloss],\
+ "i-phone-x-case": ["Gloss"],\
+"i-phone-11-pro-case": ["Gloss"],\
+"samsung-galaxy-s10-plus-case": ["Gloss"],\
+"samsung-galaxy-s9-case": ["Gloss"\
+"i-phone-11-pro-max-case": ["Gloss"],\
+"samsung-galaxy-s10-case": ["Gloss"],\
+ "richardson-snapback-trucker-cap":[	 \
+ "Black/Gold",\
+ "Black/Vegas Gold",\
+ "Black/White/Red",\
+ "Cardinal",\
+ "Charcoal/Kelly",\
+ "Charcoal/Neon Blue",\
+ "Charcoal/Neon Orange",\
+ "Charcoal/Neon Pink",\
+ "Charcoal/Neon Yellow",\
+ "Charcoal/Red",\
+ "Columbia Blue",\
+ "Cyan/White",\
+ "Dark Green/Gold",\
+ "Dark Green/White",\
+ "Hot Pink/Black",\
+ "Kelly/Black",\
+ "Kelly/White",\
+ "Navy/Red",\
+ "Navy/White",\
+ "Orange/Black",\
+ "Orange/White",\
+ "Orange/White/Black",\
+ "Purple",\
+ "Purple/White",\
+ "Red/White/Black",\
+ "Royal",\
+ "Royal/Red",\
+ "Royal/White",\
+ "White/Dark Green",\
+ "White/Maroon",\
+ "White/Navy",\
+ "White/Red",\
+ "White/Royal",\
+ "Charcoal/Orange",\
+ "Khaki/Burgundy",\
+ "Grey/Charcoal/Black",\
+ "Red/White",\
+ "Charcoal/Royal",\
+ "Hot Pink/White",\
+ "Navy/Orange",\
+ "Royal/Black",\
+ "Black/Charcoal",\
+ "Brown/Khaki",\
+ "Charcoal/White",\
+ "Cardinal/White",\
+ "Columbia Blue/Khaki",\
+ "Red/White/Heather Grey",\
+ "Columbia Blue/Black",\
+ "Dark Green/White/Heather Grey",\
+ "Khaki/Coffee",\
+ "Dark Green",\
+ "Black/White",\
+ "Heather Grey/Royal",\
+ "Charcoal/Navy",\
+ "Columbia Blue/White/Navy",\
+ "Columbia Blue/White",\
+ "Black/White/Heather Grey",\
+ "Heather Grey/Dark Green",\
+ "Heather Grey/Navy",\
+ "Heather Grey/Red",\
+ "Navy",\
+ "Charcoal/Columbia Blue",\
+ "White/Black",\
+ "White",\
+ "Heather Grey/Black",\
+ "Red/Black",\
+ "Khaki/White",\
+ "Navy/White/Heather Grey",\
+ "Navy/White/Red",\
+ "Red/White/Navy",\
+ "Royal/White/Red",\
+ "Maroon/White",\
+ "Charcoal/Neon Green",\
+ "Red",\
+ "Royal/White/Heather Grey",\
+ "Orange",\
+ "Black"],\
+ "gildan-sleeveless-t-shirt":	[ \
+ "Black",\
+ "Navy",\
+ "Red",\
+ "Royal",\
+ "Sport Grey",\
+ "White"],\
+"american-apparel-unisex-poly-cotton-3-4-sleeve-raglan-t-shirt":[	 \
+"White",\
+"White/Asphalt",\
+"White/Evergreen",\
+"White/Orchid",\
+"White/Hth Black",\
+"White/Brown",\
+"White/Navy",\
+"White/Lapis",\
+"White/Forest",\
+"White/Black",\
+"White/Red",\
+"Wht/Hthr Grey",\
+"White/Truffle",\
+"Wht/Hth Lke Blu",\
+"Wht/Neo Htr Pnk",\
+"Wht/Neo Htr Blu"],\
+"matte-poster|16x24":["White"],\
+"matte-poster|36x24":["White"],\
+"matte-poster|24x36":["White"],\
+"matte-poster|11x17":["White"],\
+"matte-poster|24x16":["White"],\
+"matte-poster|17x11":["White"],\
+ "canvas-long-sleeve-t":[	 \
+ "White",\
+ "Olive",\
+ "Navy",\
+ "Heather Navy",\
+ "Heather Brown",\
+ "Deep Heather",\
+ "Dark Grey Heather",\
+ "Cardinal",\
+ "Black",\
+ "Athletic Heather",\
+ "Red",\
+ "True Royal",\
+ "Asphalt",\
+ "Dark Grey",\
+ "Ash",\
+ "Ath Grey Triblnd",\
+ "Storm",\
+ "Black Heather",\
+ "Heather Forest",\
+ "Solid Blk Tribln",\
+ "Hthr Deep Teal",\
+ "Heather Cardinal",\
+ "Heather Slate",\
+ "Military Green",\
+ "Maroon",\
+ "Heather Tru Royl",\
+ "Chrcl Blck Trbln",\
+ "Heather Stone",\
+ "Drk Grey Heather",\
+ "Heather Mauve",\
+ "Natural",\
+ "Sand Dune",\
+ "True Royal Trbln"],\
+ "canvas-v-neck-t-shirt":[	\
+ "Ash",\
+ "Asphalt",\
+ "Athletic Heather",\
+ "Black",\
+ "Black Marble",\
+ "Brown",\
+ "Canvas Red",\
+ "Charcoal Marble",\
+ "Deep Heather",\
+ "Dk Grey Heather",\
+ "Heather Brown",\
+ "Heather Green",\
+ "Heather Navy",\
+ "Navy",\
+ "Navy Marble",\
+ "Red",\
+ "Steel Blue",\
+ "Team Purple",\
+ "True Royal",\
+ "White",\
+ "White Marble",\
+ "Dark Grey",\
+ "Heather Red",\
+ "Heather True Royal",\
+ "Kelly",\
+ "Maroon Marble",\
+ "Vintage Black",\
+ "True Royal Marble",\
+ "Asphalt Slub",\
+ "Black Mineral Wash",\
+ "Black Slub",\
+ "Deep Teal",\
+ "Maroon",\
+ "White Slub",\
+ "Orange",\
+ "Denim Slub",\
+ "Heather Cardinal",\
+ "Hthr Grass Grn",\
+ "Navy Slub",\
+ "Stone Marble",\
+ "Black Heather",\
+ "Heather Stone",\
+ "Solid Black Slub",\
+ "Heather Slate",\
+ "Olive Slub",\
+ "Forest Marble",\
+ "Military Green",\
+ "Cardinal",\
+ "Hthr Deep Teal"],\
+ "gildan-softstyle-t-shirt":[\
+ "Antique Heliconia",\
+ "Antque Cherry Red",\
+ "Antque Sapphire",\
+ "Black",\
+ "Cardinal Red",\
+ "Cherry Red",\
+ "Dark Chocolate",\
+ "Dark Heather",\
+ "Heather Irish Green",\
+ "Heather Navy",\
+ "Heather Orange",\
+ "Heather Purple",\
+ "Heather Royal",\
+ "Hthr Military Green",\
+ "Irish Green",\
+ "Kiwi",\
+ "Light Blue",\
+ "Military Green",\
+ "Navy",\
+ "Orange",\
+ "Purple",\
+ "Red",\
+ "Royal",\
+ "Sand",\
+ "Sport Grey",\
+ "White",\
+ "Cornsilk",\
+ "Carolina Blue",\
+ "Coral Silk",\
+ "Daisy",\
+ "Iris",\
+ "Jade Dome",\
+ "Natural",\
+ "Tropical Blue",\
+ "Azalea",\
+ "Berry",\
+ "Heather Red",\
+ "Sapphire",\
+ "Blackberry",\
+ "Electric Green",\
+ "Heather Cardinal",\
+ "Lime",\
+ "Metro Blue",\
+ "Mint Green",\
+ "Maroon",\
+ "Graphite Heather",\
+ "Heather Berry",\
+ "Heather Bronze",\
+ "Heather Maroon",\
+ "Hth Forest Green",\
+ "Hthr Coral Silk",\
+ "Hthr Heliconia",\
+ "Hthr Rdnt Orchid",\
+ "Htr Galopgs Blue",\
+ "Heather Seafoam",\
+ "Yellow Haze",\
+ "Kelly Green",\
+ "Gold",\
+ "Ice Grey",\
+ "Olive"],\
+ "next-level-ladies-ideal-v":[\
+ "Kelly Green",\
+ "Royal",\
+ "Light Orange",\
+ "Hot Pink",\
+ "Turquoise",\
+ "Midnight Navy",\
+ "Lilac",\
+ "Warm Gray",\
+ "Heather Gray",\
+ "White",\
+ "Raspberry",\
+ "Tahiti Blue",\
+ "Black",\
+ "Silver",\
+ "Banana Cream",\
+ "Mint",\
+ "Cancun",\
+ "Red",\
+ "Indigo",\
+ "Purple Rush",\
+ "Military Green",\
+ "Dark Gray",\
+ "Scarlet",\
+ "Antique Gold",\
+ "Desert Pink"],\
+ "comfort-colors-ringspun-t-shirt":	[\
+ "Berry",\
+ "Black",\
+ "Blue Jean",\
+ "Blue Spruce",\
+ "Brick",\
+ "Bright Salmon",\
+ "Brown",\
+ "Burnt Orange",\
+ "Butter",\
+ "Chambray",\
+ "Chili",\
+ "Chocolate",\
+ "Crimson",\
+ "Denim",\
+ "Flo Blue",\
+ "Grass",\
+ "Grey",\
+ "Hemp",\
+ "Ice Blue",\
+ "Khaki",\
+ "Kiwi",\
+ "Lagoon Blue",\
+ "Light Green",\
+ "Midnight",\
+ "Monarch",\
+ "Monteray Sage",\
+ "Mustard",\
+ "Pepper",\
+ "Periwinkle",\
+ "Royal Caribe",\
+ "Sandstone",\
+ "Seafoam",\
+ "Violet",\
+ "Watermelon",\
+ "White",\
+ "Yam",\
+ "Island Reef",\
+ "True Navy",\
+ "Chalky Mint",\
+ "Peony",\
+ "Terracota",\
+ "Vineyard",\
+ "Blossom",\
+ "Celedon",\
+ "Citrus",\
+ "Cumin",\
+ "Emerald",\
+ "Granite",\
+ "Melon",\
+ "Grape",\
+ "Mango",\
+ "Moss",\
+ "Paprika",\
+ "Sage",\
+ "Tumbleweed",\
+ "Sapphire",\
+ "Wine",\
+ "Boysenberry",\
+ "Clover",\
+ "Island Green",\
+ "Orchid",\
+ "Heliconia",\
+ "Topaz Blue",\
+ "Banana",\
+ "Crunchberry",\
+ "Mystic Blue",\
+ "Washed Denim",\
+ "Red",\
+ "Ivory",\
+ "China Blue",\
+ "Pigment Navy",\
+ "Graphite"],\
+"gildan-ladies-heavy-cotton-5-3-oz-v-neck-t-shirt":[\
+"Coral Silk",\
+"Royal",\
+"Graphite Heather",\
+"Red",\
+"Black",\
+"Hthr Rdnt Orchid",\
+"Lime",\
+"Sapphire",\
+"Sport Grey",\
+"Cornsilk",\
+"Purple",\
+"Azalea",\
+"Navy",\
+"Heliconia",\
+"Charocal",\
+"Irish Green",\
+"White",\
+"Heather Navy"],\
+ "hanes-ultimate-cotton-hoodie":[	 \
+ "Ash",\
+ "Black",\
+ "Charcoal Heather",\
+ "Deep Forest",\
+ "Deep Red",\
+ "Deep Royal",\
+ "Light Steel",\
+ "Maroon",\
+ "Navy",\
+ "White",\
+ "Dark Chocolate",\
+ "Oxford Gray"],\
+ "bella-ladies-favorite-t-shirt":[\
+ "Aqua",\
+ "Army",\
+ "Ash",\
+ "Asphalt",\
+ "Athletic Heather",\
+ "Baby Blue",\
+ "Berry",\
+ "Black",\
+ "Cardinal",\
+ "Chocolate",\
+ "Coral",\
+ "Dark Grey Heather",\
+ "Deep Teal",\
+ "Gold",\
+ "Heather Blue",\
+ "Heather Brown",\
+ "Heather Green",\
+ "Heather Navy",\
+ "Heather Pink",\
+ "Heather Raspbrry",\
+ "Heather Red",\
+ "Heather Slate",\
+ "Hthr True Royal",\
+ "Kelly",\
+ "Leaf",\
+ "Maroon",\
+ "Navy",\
+ "Ocean Blue",\
+ "Olive",\
+ "Orange",\
+ "Pebble Brown",\
+ "Pink",\
+ "Red",\
+ "Seafoam Blue",\
+ "Silver",\
+ "Soft Cream",\
+ "Solid Blk Blend",\
+ "Solid Wht Blend",\
+ "Teal",\
+ "Team Purple",\
+ "True Royal",\
+ "Turquoise",\
+ "White",\
+ "Yellow",\
+ "Steel Blue",\
+ "Heather Purple",\
+ "Dark Grey",\
+ "Heather Aqua",\
+ "Hthr Grass Grn",\
+ "Storm",\
+ "Black Heather",\
+ "Heather Maroon",\
+ "Hthr Deep Teal",\
+ "Tan",\
+ "Mauve",\
+ "Military Green",\
+ "Heather Cardinal",\
+ "Hthr Colum Blu",\
+ "Lilac",\
+ "Plum"],\
+ "comfort-colors-fleece-crew":[	 \
+ "Blue Jean",\
+ "Crimson",\
+ "Flo Blue",\
+ "Pepper",\
+ "Neon Red Orange",\
+ "Lagoon Blue",\
+ "Seafoam",\
+ "Grey",\
+ "Chalky Mint",\
+ "Blue Spruce",\
+ "Sandstone",\
+ "Watermelon",\
+ "Crunchberry",\
+ "Yam",\
+ "Light Green",\
+ "Denim",\
+ "Midnight",\
+ "Clover",\
+ "Heliconia",\
+ "Island Green",\
+ "Butter",\
+ "True Navy",\
+ "Boysenberry",\
+ "Terracota",\
+ "Orchid",\
+ "Topaz Blue",\
+ "Chambray",\
+ "White",\
+ "Violet",\
+ "Mustard"],\
+ "gildan-youth-hoodie":[\
+ "White",\
+ "Black",\
+ "Sports Grey",\
+ "Navy",\
+ "Royal Blue",\
+ "Red",\
+ "Orange",\
+ "Forest Green",\
+ "Light Pink",\
+ "Purple",\
+ "Maroon",\
+ "Irish Green",\
+ "Carolina Blue",\
+ "Cardinal Red",\
+ "Charcoal",\
+ "Gold",\
+ "Heliconia",\
+ "Safety Pink",\
+ "Dark Heather",\
+ "Graphite Heather",\
+ "Hthr Sport Royal",\
+ "Ht Sprt Drk Navy",\
+ "Ht Sp Dkr Maroon",\
+ "Hth Sp Drk Green",\
+ "Hth Spt Scrlt Rd",\
+ "Azalea",\
+ "Mint Green",\
+ "Orchid",\
+ "Violet"],\
+ "anvil-lightweight-long-sleeve-hooded-t-shirt":[	 \
+ "Carib Blue/Dk Gy",\
+ "Red/Dark Grey",\
+ "Navy/Dark Grey",\
+ "White/Dark Grey",\
+ "Black/Dark Grey"],\
+ "comfort-colors-long-sleeve-t":[	 \
+ "Blue Jean",\
+ "Blue Spruce",\
+ "Brick",\
+ "Crimson",\
+ "Flo Blue",\
+ "Grey",\
+ "Lagoon Blue",\
+ "Pepper",\
+ "Seafoam",\
+ "True Navy",\
+ "Violet",\
+ "White",\
+ "Watermelon",\
+ "Island Reef",\
+ "Chalky Mint",\
+ "Peony",\
+ "Denim",\
+ "Ice Blue",\
+ "Khaki",\
+ "Paprika",\
+ "Blossom",\
+ "Chambray",\
+ "Bright Salmon",\
+ "Berry",\
+ "Melon",\
+ "Black",\
+ "Midnight",\
+ "Hemp",\
+ "Mustard",\
+ "Butter",\
+ "Light Green",\
+ "Granite",\
+ "Island Green",\
+ "Washed Denim",\
+ "Red",\
+ "Yam",\
+ "Ivory",\
+ "Graphite",\
+ "Crunchberry",\
+ "Boysenberry",\
+ "Clover",\
+ "Heliconia",\
+ "Orchid",\
+ "Terracota",\
+ "Topaz Blue",\
+ "Navy",\
+ "Burnt Orange",\
+ "Grape",\
+ "Grass",\
+ "Sandstone",\
+ "Royal Caribe",\
+ "China Blue"],\
+"i-phone-8-case":["Gloss"],\
+"i-phone-7-case":["Gloss"],\
+ "port-company-port-company-knit-cap":[\
+ "Athletic Gold",\
+ "Athletic Green",\
+ "Athletic Orang",\
+ "Athletic Oxfrd",\
+ "Athletic Red",\
+ "Athletic Royal",\
+ "Black",\
+ "Maroon",\
+ "Navy",\
+ "White",\
+ "Brown",\
+ "Ath Oxford/Blk",\
+ "Black/Ath Oxfd",\
+ "Black/Red",\
+ "Black/Royal",\
+ "Millenium Blue",\
+ "Navy/Ath Oxfrd",\
+ "Neon Blue",\
+ "Neon Green",\
+ "Neon Orange",\
+ "Neon Pink Glo",\
+ "Neon Yellow",\
+ "Athletic Prple"],\
+"3pf-cloth-face-mask-7x3-5":["White"],\
+"big-accessories-6-panel-twill-unstructured-cap":[\
+"Dark Grey",\
+"Hunter",\
+"Navy",\
+"Sunray Yellow",\
+"Team Purple",\
+"Stone",\
+"White",\
+"Red",\
+"True Royal",\
+"Black",\
+"Lt College Blue",\
+"Team Orange",\
+"Blush"],\
+"big-accessories-5-panel-cap":[\
+"Black",\
+"Forest",\
+"Red",\
+"Royal"],\
+ "yupoong-adult-cuffed-knit-cap":[\
+ "Orange",\
+ "Spruce",\
+ "Brown",\
+ "White",\
+ "Royal",\
+ "Navy",\
+ "Carolina Blue",\
+ "Red",\
+ "Dark Grey",\
+ "Gold",\
+ "Purple",\
+ "Heather",\
+ "Safety Green",\
+ "Safety Yellow",\
+ "Black",\
+ "Maroon",\
+ "Caramel",\
+ "Pink"],\
+ "anvil-ladies-ringspun-t":[	 \
+ "Black",\
+ "Caribbean Blue",\
+ "Charcoal",\
+ "Charity Pink",\
+ "Chocolate",\
+ "City Green",\
+ "Green Apple",\
+ "Heather Blue",\
+ "Heather Dk Grey",\
+ "Heather Green",\
+ "Heather Grey",\
+ "Heather Purple",\
+ "Hot Pink",\
+ "Independence Red",\
+ "Kelly Green",\
+ "Key Lime",\
+ "Lake",\
+ "Light Blue",\
+ "Mandarin Orange",\
+ "Navy",\
+ "Orange",\
+ "Purple",\
+ "Red",\
+ "Royal Blue",\
+ "Silver Grey",\
+ "Smoke",\
+ "Spring Yellow",\
+ "Storm Grey",\
+ "White",\
+ "Heather Red",\
+ "Coral",\
+ "Dusty Rose",\
+ "Heather Graphite",\
+ "Pool Blue",\
+ "Teal Ice",\
+ "Terracotta",\
+ "Violet",\
+ "Heather Navy",\
+ "Canyon",\
+ "Orion",\
+ "Paragon"],\
+ "yupoong-adult-low-profile-cotton-twill-dad-cap":[\
+ "Orange",\
+ "Cranberry",\
+ "Black",\
+ "Spruce",\
+ "Navy",\
+ "Khaki",\
+ "Pink",\
+ "Stone",\
+ "Green Camo",\
+ "Multicam Green",\
+ "Multicam Black",\
+ "Dark Grey",\
+ "Multicam Alpine",\
+ "Multicam Arid",\
+ "Multicam Tropic",\
+ "Light Blue"],\
+ "jerzees-sweatshirt-crew":[\
+ "Oxford",\
+ "Birch",\
+ "True Red",\
+ "Maroon",\
+ "Sandstone",\
+ "Forest Green",\
+ "Black",\
+ "Royal Blue",\
+ "Columbia Blue",\
+ "Safety Orange",\
+ "Black Heather",\
+ "J Navy",\
+ "Khaki",\
+ "Classic Pink",\
+ "Gold",\
+ "Chocolate"],\
+ "hanes-ultimate-cotton-fleece-crew":[\
+ "Ash",\
+ "Black",\
+ "Charcoal Heather",\
+ "Deep Forest",\
+ "Deep Red",\
+ "Deep Royal",\
+ "Light Steel",\
+ "Maroon",\
+ "Navy",\
+ "White",\
+ "Dark Chocolate",\
+ "Oxford Gray",\
+ "Light Blue"],\
+"yupoong-adult-6-panel-structured-flat-visor-classic-two-tone-snapback":[	 \
+"Dark Heather",\
+"Heather/Red",\
+"Heather/Royal",\
+"Heather/Black",\
+"Heather/Navy",\
+"Heather/Purple",\
+"Spruce",\
+"Silver",\
+"Black",\
+"Navy",\
+"Heather Grey",\
+"Camo",\
+"Black/Teal",\
+"Black/Purple",\
+"Grey",\
+"Black/Silver",\
+"Black/Red",\
+"Drk Hthr/Red",\
+"Drk Hthr/Black",\
+"Black/Camo",\
+"Multicam Black",\
+"Multicam Green",\
+"Navy/Red",\
+"Orange",\
+"Maroon",\
+"Black/Neon Pink",\
+"Camo/Black",\
+"Multicam Alpine",\
+"Multicam Arid",\
+"Multicam Tropic",\
+"Black/Neon Green",\
+"Natural/Black",\
+"Black/Neon Orange",\
+"White",\
+"Natural"],\
+ "richardson-patterned-snapback-trucker-cap":[	 \
+ "Island Print Pink/White",\
+ "Island Print Red/White",\
+ "Kryptek Highlander - Buck",\
+ "Kryptek Inferno/Black",\
+ "Navy Digital Camo/Charcoal",\
+ "Plaid Print Black/Charcoal/White",\
+ "Plaid Print Charcoal/Columbia Blue/White",\
+ "Plaid Print Dark Green/Charcoal/White",\
+ "Plaid Print Grey/Charcoal/Charcoal",\
+ "Plaid Print Hot Pink/Black/White",\
+ "Plaid Print Khaki/Black/Brown",\
+ "Plaid Print Navy/Charcoal/White",\
+ "Plaid Print Red/Charcoal/White",\
+ "Plaid Print Royal/Charcoal/White",\
+ "Plaid Print Thyme Green/Toast/Khaki",\
+ "Red Digital Camo/Charcoal",\
+ "Royal Digital Camo/Charcoal",\
+ "Streak Black/Charcoal",\
+ "Streak Charcoal/White",\
+ "Streak Dark Green/Charcoal",\
+ "Streak Navy/White",\
+ "Streak Red/Charcoal",\
+ "Streak Royal/Charcoal",\
+ "Realtree Max-1/Brown",\
+ "Realtree Max-5/Buck",\
+ "Black Digital Camo/Charcoal",\
+ "Kryptek Neptune/Black",\
+ "Kryptek Typhon/Neon Orange",\
+ "Kryptek Typhon/Neon Yellow",\
+ "Kryptek Neptune/White",\
+ "Realtree Fishing Light Blue/Navy",\
+ "Kryptek Typhon/Black",\
+ "Military Digital Camo/Light Green",\
+ "Kryptek Typhon/Neon Pink",\
+ "Kryptek Inferno/Blaze",\
+ "Army Camo/Black",\
+ "Realtree Edge/Brown",\
+ "Realtree Edge/Neon Orange",\
+ "Realtree Timber/Black",\
+ "Realtree Edge/Neon Yellow",\
+ "Island Print Navy/White",\
+ "Island Print Khaki/Brown",\
+ "Island Print Black/White",\
+ "Desert Camo/Brown",\
+ "Realtree Edge/Neon Pink",\
+ "Mossy Oak Elements Blacktip/Charcoal",\
+ "Mossy Oak Obsession/Khaki",\
+ "Realtree Excape/Black",\
+ "Kryptek Pontus/White",\
+ "Mossy Oak Elements Bonefish/Light Grey",\
+ "Realtree Original/Black"],\
+"yupoong-adult-5-panel-classic-trucker-cap":[\
+"Charcoal",\
+"Navy",\
+"Pink",\
+"Multicam Green/Black",\
+"Charcoal/Black",\
+"Multicam Arid/Brown",\
+"Multicam Arid/Tan",\
+"Charcoal/White",\
+"Black",\
+"Multicam Alpine/White",\
+"Multicam Tropic/Green",\
+"Silver/Black",\
+"Multicam Black/Black",\
+"Black/White"],\
+ "yupoong-adult-retro-trucker-cap":[	 \
+ "Charcoal",\
+ "Brown/Khaki",\
+ "Rust Orange/Khaki",\
+ "Black",\
+ "Moss/Khaki",\
+ "Black/White",\
+ "Navy/White",\
+ "White",\
+ "Pink",\
+ "Khaki",\
+ "Navy",\
+ "Red/White",\
+ "Charcoal/White",\
+ "Black/White/Black",\
+ "Charcoal/Black",\
+ "Green Camo/Blk",\
+ "Navy/White/Navy",\
+ "Royal/White",\
+ "Multicam Arid/Brown",\
+ "Multicam Arid/Tan",\
+ "Turquoise/White",\
+ "Chrcl/Neon Orng",\
+ "Caramel",\
+ "Cranberry",\
+ "Evergreen",\
+ "Evergreen/White",\
+ "Silver",\
+ "Multicam Green/Khaki",\
+ "Multicam Alpine/White",\
+ "Kryptek Highlander",\
+ "Kryptek Typhon",\
+ "Multicam Black/Black",\
+ "Kryptek Pontus",\
+ "Kryptek Raid",\
+ "Kryptek Wraith",\
+ "Charcoal/Navy",\
+ "Heather/Black"],\
+ "big-accessories-ultimate-dad-cap":[	 \
+ "Black",\
+ "Khaki",\
+ "Light Blue",\
+ "Light Gray",\
+ "Pink",\
+ "Vintage Red"],\
+"color-changing-beverage-mug|11oz":["White"],\
+"samsung-galaxy-s20-plus-case":["Gloss"],\
+"samsung-galaxy-s20-case":["Gloss"],\
+"samsung-galaxy-s20-ultra-case":["Gloss"],\
+"i-phone-12-pro-case":["Gloss"],\
+"i-phone-12-mini-case":["Gloss"],\
+"i-phone-12-pro-max-case":["Gloss"],\
+ "canvas-usa-short-sleeve-t-shirt":[\
+ "Asphalt",\
+ "Athletic Heather",\
+ "Black",\
+ "Dark Grey Heather",\
+ "Navy",\
+ "Red",\
+ "True Royal",\
+ "White",\
+ "Leaf",\
+ "Silver",\
+ "Deep Heather",\
+ "Military Green"],\
+ "hanes-ladies-comfort-soft-t":[\
+ "Black",\
+ "Deep Red",\
+ "White",\
+ "Deep Royal",\
+ "Blue Horizon",\
+ "Candy Orange",\
+ "Charisma Coral",\
+ "Clean Mint",\
+ "Navy",\
+ "Light Steel",\
+ "Pink",\
+ "Charcoal Heather",\
+ "Shamrock Green"],\
+ "port-company-ladies-fan-favorite-v-neck-tee":[	 \
+ "Athletic Hthr",\
+ "Athletic Kelly",\
+ "Athletic Mar",\
+ "Bright Gold",\
+ "Bright Red",\
+ "Charcoal",\
+ "Dark Hthr Grey",\
+ "Deep Navy",\
+ "Flash Green",\
+ "Forest Green",\
+ "Jet Black",\
+ "Light Blue",\
+ "New Pink",\
+ "Orange",\
+ "Sapphire",\
+ "Team Cardinal",\
+ "Team Navy",\
+ "Team Purple",\
+ "True Royal",\
+ "White"],\
+ "canvas-youth-t-shirt":[	 \
+ "Berry",\
+ "Black",\
+ "Dark Grey Heather",\
+ "Navy",\
+ "Red",\
+ "True Royal",\
+ "White",\
+ "Deep Heather",\
+ "Neon Green",\
+ "Neon Orange",\
+ "Neon Pink",\
+ "Neon Yellow",\
+ "Team Purple",\
+ "Neon Blue",\
+ "Dark Grey",\
+ "Heather Maroon",\
+ "Heather Stone",\
+ "Hthr Colum Blue",\
+ "Kelly",\
+ "Pink",\
+ "Heather Forest",\
+ "Black Heather",\
+ "Athletic Heather",\
+ "Heather Navy",\
+ "Asphalt",\
+ "Heather Red",\
+ "Heather Tru Royl",\
+ "Maroon",\
+ "Heather Mauve",\
+ "Hthr Grass Grn",\
+ "Vintage Black",\
+ "Natural",\
+ "Ash",\
+ "Hthr Yellow Gold",\
+ "Heathr Deep Teal",\
+ "Gold",\
+ "Heather Dust",\
+ "Hthr Dusty Blue",\
+ "Forest",\
+ "Heather Orchid",\
+ "Mustard",\
+ "Hthr Team Purple",\
+ "Columbia Blue"],\
+"gildan-youth-softstyle-4-5-oz-t-shirt":[ \
+"Black",\
+"Charcoal",\
+"Daisy",\
+"Graphite Heather",\
+"Heather Royal",\
+"Heliconia",\
+"Hthr Irish Green",\
+"Lime",\
+"Navy",\
+"Red",\
+"Royal",\
+"Safety Green",\
+"Sapphire",\
+"Sport Grey",\
+"White",\
+"Dark Heather",\
+"Heather Cardinal",\
+"Heather Navy",\
+"Heather Orange",\
+"Heather Purple",\
+"Heather Red",\
+"Hthr Aubergine",\
+"Hthr Militry Grn"],\
+ "next-level-mens-jersey-tank":[	 \
+ "Black",\
+ "Heather Grey",\
+ "Heavy Metal",\
+ "Kelly Green",\
+ "Midnight Navy",\
+ "Red",\
+ "Royal",\
+ "Tahiti Blue",\
+ "Turquoise",\
+ "White",\
+ "Black/Heather Grey",\
+ "Midnight Navy/Heather Grey",\
+ "Black/Antq Gold",\
+ "Black/Hthr Grey",\
+ "Hthr Gray/Cancn",\
+ "Mid Ny/Hthr Gry"],\
+ "district-mens-very-important-tee":[\
+ "Dusty Peach",\
+ "Black",\
+ "Charcoal",\
+ "Classic Red",\
+ "Deep Royal",\
+ "Eggplant",\
+ "Evergreen",\
+ "Gold",\
+ "Grey",\
+ "Hthrd Brown",\
+ "New Navy"],\
+ "next-level-girls-princess-t-shirt":[\
+ "Purple Rush",\
+ "Red",\
+ "Hot Pink",\
+ "White",\
+ "Lilac",\
+ "Black",\
+ "Heather Gray",\
+ "Tahiti Blue",\
+ "Midnight Navy",\
+ "Cancun",\
+ "Turquoise",\
+ "Raspberry"]\};}

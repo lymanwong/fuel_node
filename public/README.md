@@ -14,3 +14,8 @@ Ajax
 Html/CSS
 
 Note: Created a redirect to send users to the new Fuel app.
+
+1) Open your Terminal app
+2) Navigate to the app folder
+3) Type "npm start" and hit Enter
+4) Open a browser and type "localhost:5000"

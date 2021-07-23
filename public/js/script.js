@@ -7,6 +7,7 @@
     let geturl = this.getAttribute('data-url');
     // Create a url using geturl
     let url = "https://api.scalablepress.com/v2/products/" + geturl + "/availability";
+    //console.log(url);
     // Make an ajax request to the Scalable Press API
     $.ajax({
       url: url,
@@ -15,6 +16,7 @@
       let items = [];
       // Create a variable to hold all of the out of stock items
       let oosItems = ['<li class="list-group-item active">' + "The following colors are out of stock" + '</li>'];
+      //console.log(data);
       //Loop over each key in supportedColors
       Object.keys(supportedColors).forEach(function(supportedItem) {
       //If the key matches what was clicked
