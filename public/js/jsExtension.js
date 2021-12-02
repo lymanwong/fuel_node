@@ -121,7 +121,8 @@ function addSuggestedColorsHandler(retrievedData){
               }
             }
         });
-    $("#content").append(`<li class="list-group-item active"> Similar colors for <button class="suggestColor boxStyling" style="background-color:${buttonClickedColor};">${buttonClickedColor}</li>`);
+      let tab = document.getElementById("staticBackdropLabel");
+      tab.innerHTML = `Similar colors for <button class="suggestColor boxStyling" style="background-color:${buttonClickedColor};">${buttonClickedColor}`;
     appendItems(suggestedColorsCollection);
     addSuggestedInventoryCountHandler(retrievedData); //why doesn't this work when placed
   });
@@ -187,7 +188,9 @@ function addSuggestedInventoryCountHandler(retrievedData){
 function addSuggestedColors() {
   clearResults();
   //Add a line to tell the user which color we are searching for
-  $("#content").append(`<li class="list-group-item active">Similar colors for <button class="boxStyling" style="background-color:${buttonClickedColor};">${buttonClickedColor}</li>`);
+  let tab = document.getElementById("staticBackdropLabel");
+  tab.innerHTML = `Similar colors for <button class="suggestColor boxStyling" style="background-color:${buttonClickedColor};">${buttonClickedColor}`;
+  // $("#content").append(`<li class="list-group-item active">Similar colors for <button class="boxStyling" style="background-color:${buttonClickedColor};">${buttonClickedColor}</li>`);
   //Append the suggested color list
   appendItems(gotSuggestedColors);
 };
