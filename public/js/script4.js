@@ -17,12 +17,4 @@
     addSuggestedColorsHandler();
   });
 
-  $('.modal-body').scroll(function(){
-      if ($(this).scrollTop() > 135) {
-          $('#task_flyout').addClass('fixed');
-      } else {
-          $('#task_flyout').removeClass('fixed');
-      }
-  });
-
 }(jQuery));
