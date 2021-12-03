@@ -24,9 +24,12 @@ function callApi(url) {
 function clearResults() {
   // Remove resultset if this has already been run
   $("#content").empty();
+};
+
+function resetModal() {
   let tab = document.getElementById("staticBackdropLabel");
   tab.innerHTML = "Inventory Status (Updates every 4 hours)";
-};
+}
 
 function appendItems (inStockItems, oosItems){
   // Add the content of the items array

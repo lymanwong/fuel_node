@@ -17,4 +17,11 @@
     addSuggestedColorsHandler();
   });
 
+  $("#newsearch").on("click", function (event){
+    resetModal();
+  });
+  $(".newsearch").on("click", function (event){
+    resetModal();
+  });
+
 }(jQuery));
