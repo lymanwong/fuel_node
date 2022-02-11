@@ -28,7 +28,7 @@ function clearResults() {
 
 function resetModal() {
   let tab = document.getElementById("staticBackdropLabel");
-  tab.innerHTML = "Inventory Status (Updates every 4 hours)";
+  tab.innerHTML = "Inventory Status (Updates every hour)";
 }
 
 function appendItems (inStockItems, oosItems){
