@@ -127,7 +127,7 @@ function addSuggestedColorsHandler(retrievedData){
             }
         });
       let tab = document.getElementById("staticBackdropLabel");
-      tab.innerHTML = `Similar colors for <button class="suggestColor boxStyling" style="background-color:${buttonClickedColor};">${buttonClickedColor}`;
+      tab.innerHTML = `Similar colors for <button class="suggestColor boxStyling" style="background-color:${buttonClickedColor}" data-itemcolor="${buttonSuggestColor}" data-itemtype="${buttonSuggestItemType}">${buttonClickedColor}`;
     appendItems(suggestedColorsCollection);
     addSuggestedInventoryCountHandler(retrievedData); //why doesn't this work when placed
   });
