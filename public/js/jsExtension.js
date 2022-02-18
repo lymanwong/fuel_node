@@ -122,6 +122,7 @@ function addSuggestedColorsHandler(retrievedData){
                   suggestedObject[supportedItem] = [searchItem[k]];
                   let formattedSupportedItem = supportedItem.split('-').join(" ");
                   suggestedColorsCollection.push(`<li data-brandtype="${supportedItem}" class="list-group-item list-group-item-info ${supportedItem}">${formattedSupportedItem[0].toUpperCase()}${formattedSupportedItem.substring(1)}</li>`);
+                  suggestedColorsCollection.push(`<li class="list-group-item">${searchItem[k][0]} <button data-itemcolor="${searchItem[k][3]}" data-itemtype="${searchItem[k][2]}" data-brandtype="${supportedItem}" class="suggestColorCount boxStyling" style="background-color:${searchItem[k][1]};"> ${searchItem[k][1]}</button></li>`);
                 }
               }
             }
@@ -170,20 +171,7 @@ function addSuggestedInventoryCountHandler(retrievedData){
           `<li class="list-group-item"> ${size.toUpperCase()} - ${sizes[size]} pieces </li>`
           );
       }
-      // if (sizes[size] < 100) {
-      //    items.push(
-      //     `<li class="list-group-item"> ${size.toUpperCase()} - ${sizes[size]} pieces <span class="redwarning">Warning: Most likely out of stock</span></li>`);
-      //  } else if (101 < size[size] < 200) {
-      //   items.push(
-      //     `<li class="list-group-item"> ${size.toUpperCase()} - ${sizes[size]} pieces <span class="redwarning">Warning: Low inventory</span></li>`);
-      // } else {
-      //     items.push(
-      //     `<li class="list-group-item"> ${size.toUpperCase()} - ${sizes[size]} pieces </li>`
-      // );
-      // }
     }
-      // console.log(size); // letter size
-      // console.log(sizes[size]); //count
     clearResults();
     appendItems(items);
     addSuggestedColorsHandler();
@@ -195,7 +183,6 @@ function addSuggestedColors() {
   //Add a line to tell the user which color we are searching for
   let tab = document.getElementById("staticBackdropLabel");
   tab.innerHTML = `Similar colors for <button class="suggestColor boxStyling" style="background-color:${buttonClickedColor};">${buttonClickedColor}`;
-  // $("#content").append(`<li class="list-group-item active">Similar colors for <button class="boxStyling" style="background-color:${buttonClickedColor};">${buttonClickedColor}</li>`);
   //Append the suggested color list
   appendItems(gotSuggestedColors);
 };
